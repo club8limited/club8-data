@@ -23,6 +23,18 @@
       "created_at": "2026-07-30T10:22:00.364422",
       "created_by": "297851275662589972",
       "message_id": "1532332370517295187"
+    },
+    {
+      "id": "bounty-1785407016388",
+      "title": "Test",
+      "game": "Test",
+      "challenge": "Test",
+      "prize": "Test",
+      "tier": "3",
+      "status": "ACTIVE",
+      "created_at": "2026-07-30T10:23:36.388052",
+      "created_by": "297851275662589972",
+      "message_id": null
     }
   ],
   "claims": []
