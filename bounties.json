@@ -45,6 +45,29 @@
       "status": "ACTIVE",
       "created_at": "2026-07-30T09:53:06.762046",
       "created_by": "297851275662589972",
+      "message_id": "1532325101603782898"
+    },
+    {
+      "id": "bounty-1785405186811",
+      "game": "Counter Strike 2",
+      "challenge": "Test",
+      "prize": "$1000000NZD",
+      "tier": "1",
+      "status": "ACTIVE",
+      "created_at": "2026-07-30T09:53:06.811133",
+      "created_by": "297851275662589972",
+      "message_id": null
+    },
+    {
+      "id": "bounty-1785405229894",
+      "title": null,
+      "game": "test",
+      "challenge": "test",
+      "prize": "test",
+      "tier": "2",
+      "status": "ACTIVE",
+      "created_at": "2026-07-30T09:53:49.894688",
+      "created_by": "297851275662589972",
       "message_id": null
     }
   ],
