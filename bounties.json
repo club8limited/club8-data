@@ -1,17 +1,4 @@
 {
-  "bounties": [
-    {
-      "id": "bounty-1785406408001",
-      "title": "Test",
-      "game": "Alpha Test",
-      "challenge": "Test",
-      "prize": "Test",
-      "tier": "4",
-      "status": "ACTIVE",
-      "created_at": "2026-07-30T10:13:36.380000",
-      "created_by": "297851275662589972",
-      "message_id": null
-    }
-  ],
+  "bounties": [],
   "claims": []
 }
