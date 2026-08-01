@@ -19,11 +19,12 @@
       "bounty_id": "bounty-1785549679405",
       "user_id": "297851275662589972",
       "thread_id": "1532931185632874546",
-      "status": "PENDING",
+      "status": "FORFEITED",
       "submitted_at": "2026-08-01T02:01:29.890700",
       "warning_kind": "final",
       "warning_sent_at": "2026-08-01T02:02:31.346567",
-      "deadline": "2026-08-01T08:02:31.345429+00:00"
+      "deadline": "2026-08-01T08:02:31.345429+00:00",
+      "status_updated_at": "2026-08-01T02:02:55.531902"
     }
   ]
 }
