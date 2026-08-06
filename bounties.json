@@ -23,6 +23,18 @@
       "created_at": "2026-08-06T02:13:49.356949",
       "created_by": "297851275662589972",
       "message_id": "1534746292155318294"
+    },
+    {
+      "id": "bounty-1785982624549",
+      "title": "Team Gap",
+      "game": "League of Legends",
+      "challenge": "Get a Pentakill in a 5v5 Ranked game. ( PLAT 4+ )",
+      "prize": "$15 NZD",
+      "tier": "1",
+      "status": "ACTIVE",
+      "created_at": "2026-08-06T02:17:04.549704",
+      "created_by": "297851275662589972",
+      "message_id": null
     }
   ],
   "claims": [
