@@ -1,5 +1,18 @@
 {
-  "bounties": [],
+  "bounties": [
+    {
+      "id": "bounty-1785979941238",
+      "title": "Get Leetify",
+      "game": "Counter Strike 2",
+      "challenge": "Get a Knife kill in 5v5 FACEIT Match",
+      "prize": "$10 NZD",
+      "tier": "1",
+      "status": "ACTIVE",
+      "created_at": "2026-08-06T01:32:21.391430",
+      "created_by": "297851275662589972",
+      "message_id": null
+    }
+  ],
   "claims": [
     {
       "id": "claim-1785549689888",
