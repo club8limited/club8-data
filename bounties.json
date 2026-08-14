@@ -47,6 +47,18 @@
       "created_at": "2026-08-14T04:26:58.990388",
       "created_by": "297851275662589972",
       "message_id": "1537678906612518943"
+    },
+    {
+      "id": "bounty-1786682075506",
+      "title": "Stronghold Sprint",
+      "game": "Minecraft",
+      "challenge": "Find a Stronghold within 15 minutes of world creation. ( unedited video from world creation to finding Stronghold required )",
+      "prize": "$22 NZD",
+      "tier": "2",
+      "status": "ACTIVE",
+      "created_at": "2026-08-14T04:34:35.506290",
+      "created_by": "297851275662589972",
+      "message_id": null
     }
   ],
   "claims": [
